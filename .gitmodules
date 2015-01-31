@@ -13,3 +13,27 @@
 [submodule "color-me-wp-2014"]
 	path = color-me-wp-2014
 	url = ../color-me-wp-2014.git
+[submodule "my-php-gallery"]
+	path = my-php-gallery
+	url = ../my-php-gallery.git
+[submodule "pwaplusphp"]
+	path = pwaplusphp
+	url = ../pwaplusphp.git
+[submodule "pwaplusphp-pro"]
+	path = pwaplusphp-pro
+	url = ../pwaplusphp-pro.git
+[submodule "sell-my-plugin"]
+	path = sell-my-plugin
+	url = ../sell-my-plugin.git
+[submodule "theme-test-drive"]
+	path = theme-test-drive
+	url = ../theme-test-drive.git
+[submodule "who-is-online"]
+	path = who-is-online
+	url = ../who-is-online.git
+[submodule "wp-twentyelevenchild"]
+	path = wp-twentyelevenchild
+	url = ../wp-twentyelevenchild.git
+[submodule "landryonline"]
+	path = landryonline
+	url = ../landryonline.git
