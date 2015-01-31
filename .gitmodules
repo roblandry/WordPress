@@ -1,0 +1,15 @@
+[submodule "admin-email-fix"]
+	path = admin-email-fix
+	url = ../admin-email-fix.git
+[submodule "authorgrid"]
+	path = authorgrid
+	url = ../authorgrid.git
+[submodule "check-my-version"]
+	path = check-my-version
+	url = ../check-my-version.git
+[submodule "color-me-wp"]
+	path = color-me-wp
+	url = ../color-me-wp.git
+[submodule "color-me-wp-2014"]
+	path = color-me-wp-2014
+	url = ../color-me-wp-2014.git
